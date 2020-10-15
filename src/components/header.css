@@ -1,0 +1,43 @@
+:root {
+  --text: rgb(69, 140, 72);
+}
+header {
+  width: 100%;
+  padding: 0 1rem;
+  position: fixed;
+  z-index: 99999;
+  background: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1.5px solid var(--text);
+}
+.logo {
+  margin-right: 1rem;
+}
+.nav {
+  padding: 1rem;
+  display: flex;
+  min-width: 500px;
+  max-width: 900px;
+  justify-content: space-between;
+  list-style: none;
+  height: 4rem;
+}
+
+body {
+  height: 200vh;
+}
+
+.nav a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease-in;
+}
+.nav a:hover {
+  color: var(--text);
+}
+
+header + div {
+  padding-top: 5rem;
+}
