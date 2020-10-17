@@ -4,31 +4,71 @@
     "availabilty": "Monday and Wednesday",
     "expertice": "Mathematics and Science",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "description": "Hello, I am currently a Senior at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Spanish", "English"]
   },
   {
-    "name": "Ariel Caicedo",
-    "availabilty": "Mondays and Wednesdays",
-    "expertice": "Mathematics and Science",
-    "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Spanish", "English"]
-  },
-  {
-    "name": "Julia Wu",
-    "availabilty": "Fridays and Saturdays",
-    "expertice": "Literature and Science",
+    "name": "Tan Chu",
+    "availabilty": "Tuesdays and Thursdays",
+    "expertice": "Art and Science",
     "headshot": "./tutors/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Chinese", "English"]
   },
   {
+    "name": "Julia Wu",
+    "availabilty": "Fridays and Saturdays",
+    "expertice": "Literature, English, and Mathematics",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Freshman at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Chinese", "English"]
+  },
+  {
     "name": "Adam Smirnov",
-    "availabilty": "Mondays and Tuesdays",
+    "availabilty": "Mondays and Wednesdays",
     "expertice": "Mathematics and Geography",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "description": "Hello, I am currently a Junior at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Russian", "English"]
+  },
+  {
+    "name": "Sanja Patel",
+    "availabilty": "Mondays, Tuesdays, Wednesdays, and Thursdays",
+    "expertice": "English and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Hindi", "English"]
+  },
+  {
+    "name": "Rashid Lowe",
+    "availabilty": "Mondays and Tuesdays",
+    "expertice": "Geography and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Freshman at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["English"]
+  },
+  {
+    "name": "William Lane",
+    "availabilty": "Saturdays and Sundays",
+    "expertice": "Mathematics and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Junior at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["French", "English"]
+  },
+  {
+    "name": "Sophia Chambers",
+    "availabilty": "Fridays, Saturdays, and Sundays",
+    "expertice": "English, Art and Geography",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["English"]
+  },
+  {
+    "name": "Miguel Mendoza",
+    "availabilty": "Thursdays, Fridays, and Mondays ",
+    "expertice": "Mathematics, Science, and Geography",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Senior at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Spanish", "English"]
   }
 ]
