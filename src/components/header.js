@@ -14,10 +14,13 @@ export default function Header() {
           <Link to="/about">About</Link>
         </li>
         <li>
-          <Link to="/tutors">Anything</Link>
+          <Link to="/meet">Meet our tutors</Link>
         </li>
         <li>
-          <Link to="/signup">Sign up</Link>
+          <Link to="/tutors">Join Us</Link>
+        </li>
+        <li>
+          <Link to="/student">Look for a tutor</Link>
         </li>
       </ul>
     </header>

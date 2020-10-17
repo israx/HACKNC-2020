@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function SignUp() {
+export default function Student() {
   return (
     <div className="about">
-      <h1>This is Sign Up page</h1>
+      <h1>This is the student section</h1>
     </div>
   );
 }
