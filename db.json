@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Ariel Caicedo",
     "availabilty": "Monday and Wednesday",
     "expertice": "Mathematics and Science",
@@ -8,6 +9,7 @@
     "languages": ["Spanish", "English"]
   },
   {
+    "id": 2,
     "name": "Tan Chu",
     "availabilty": "Tuesdays and Thursdays",
     "expertice": "Art and Science",
@@ -16,6 +18,7 @@
     "languages": ["Chinese", "English"]
   },
   {
+    "id": 3,
     "name": "Julia Wu",
     "availabilty": "Fridays and Saturdays",
     "expertice": "Literature, English, and Mathematics",
@@ -24,6 +27,7 @@
     "languages": ["Chinese", "English"]
   },
   {
+    "id": 4,
     "name": "Adam Smirnov",
     "availabilty": "Mondays and Wednesdays",
     "expertice": "Mathematics and Geography",
@@ -32,6 +36,7 @@
     "languages": ["Russian", "English"]
   },
   {
+    "id": 5,
     "name": "Sanja Patel",
     "availabilty": "Mondays, Tuesdays, Wednesdays, and Thursdays",
     "expertice": "English and Science",
@@ -40,6 +45,16 @@
     "languages": ["Hindi", "English"]
   },
   {
+    "id": 6,
+    "name": "Jovani Hernandez",
+    "availabilty": "Mondays, Tuesdays, Saturdays, and Sundays",
+    "expertice": "English, Spanish, and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Spanish", "English"]
+  },
+  {
+    "id": 7,
     "name": "Rashid Lowe",
     "availabilty": "Mondays and Tuesdays",
     "expertice": "Geography and Science",
@@ -48,6 +63,7 @@
     "languages": ["English"]
   },
   {
+    "id": 8,
     "name": "William Lane",
     "availabilty": "Saturdays and Sundays",
     "expertice": "Mathematics and Science",
@@ -56,6 +72,7 @@
     "languages": ["French", "English"]
   },
   {
+    "id": 9,
     "name": "Sophia Chambers",
     "availabilty": "Fridays, Saturdays, and Sundays",
     "expertice": "English, Art and Geography",
@@ -64,6 +81,7 @@
     "languages": ["English"]
   },
   {
+    "id": 10,
     "name": "Miguel Mendoza",
     "availabilty": "Thursdays, Fridays, and Mondays ",
     "expertice": "Mathematics, Science, and Geography",
