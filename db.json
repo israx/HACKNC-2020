@@ -9,12 +9,12 @@
     "id": 1
   },
   {
-    "name": "Ariel Caicedo",
-    "availabilty": "Mondays and Wednesdays",
-    "expertice": "Mathematics and Science",
+    "name": "Abram Jackson",
+    "availabilty": "Tuesdays and Thursdays",
+    "expertice": "Mathematics, Science, Art",
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Spanish", "English"],
+    "languages": ["English"],
      "id": 2
   },
   {
