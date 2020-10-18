@@ -27,9 +27,9 @@ function ContextProvider(props) {
       id: Date.now(),
     },
     {
-      name: "Member 4",
+      name: "Yu",
       profilePicture: profile,
-      info: "info goes here",
+      info: "Electrical Engineering at University of Florida",
       id: Date.now(),
     },
   ];

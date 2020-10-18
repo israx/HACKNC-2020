@@ -1,8 +1,10 @@
 [
   {
+    "id": 1,
     "name": "Ariel Caicedo",
     "availabilty": "Monday and Wednesday",
     "expertice": "Mathematics and Science",
+<<<<<<< HEAD
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Spanish", "English"],
@@ -16,23 +18,106 @@
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
     "languages": ["English"],
      "id": 2
+=======
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Senior at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Spanish", "English"]
   },
   {
+    "id": 2,
+    "name": "Tan Chu",
+    "availabilty": "Tuesdays and Thursdays",
+    "expertice": "Art and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Chinese", "English"]
+>>>>>>> 819f6284f53887c54e3cac1c15ec46e7cfb7569d
+  },
+  {
+    "id": 3,
     "name": "Julia Wu",
     "availabilty": "Fridays and Saturdays",
+<<<<<<< HEAD
     "expertice": "Literature and Science",
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Chinese", "English"],
      "id": 3
+=======
+    "expertice": "Literature, English, and Mathematics",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Freshman at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Chinese", "English"]
+>>>>>>> 819f6284f53887c54e3cac1c15ec46e7cfb7569d
   },
   {
+    "id": 4,
     "name": "Adam Smirnov",
-    "availabilty": "Mondays and Tuesdays",
+    "availabilty": "Mondays and Wednesdays",
     "expertice": "Mathematics and Geography",
+<<<<<<< HEAD
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Russian", "English"],
      "id": 4
+=======
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Junior at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Russian", "English"]
+  },
+  {
+    "id": 5,
+    "name": "Sanja Patel",
+    "availabilty": "Mondays, Tuesdays, Wednesdays, and Thursdays",
+    "expertice": "English and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Hindi", "English"]
+  },
+  {
+    "id": 6,
+    "name": "Jovani Hernandez",
+    "availabilty": "Mondays, Tuesdays, Saturdays, and Sundays",
+    "expertice": "English, Spanish, and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Spanish", "English"]
+  },
+  {
+    "id": 7,
+    "name": "Rashid Lowe",
+    "availabilty": "Mondays and Tuesdays",
+    "expertice": "Geography and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Freshman at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["English"]
+  },
+  {
+    "id": 8,
+    "name": "William Lane",
+    "availabilty": "Saturdays and Sundays",
+    "expertice": "Mathematics and Science",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Junior at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["French", "English"]
+  },
+  {
+    "id": 9,
+    "name": "Sophia Chambers",
+    "availabilty": "Fridays, Saturdays, and Sundays",
+    "expertice": "English, Art and Geography",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["English"]
+  },
+  {
+    "id": 10,
+    "name": "Miguel Mendoza",
+    "availabilty": "Thursdays, Fridays, and Mondays ",
+    "expertice": "Mathematics, Science, and Geography",
+    "headshot": "./tutors/avatar.png",
+    "description": "Hello, I am currently a Senior at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Spanish", "English"]
+>>>>>>> 819f6284f53887c54e3cac1c15ec46e7cfb7569d
   }
 ]

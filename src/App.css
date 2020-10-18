@@ -24,6 +24,22 @@
   color: white;
 }
 
+.Join-header {
+  background-image: url(./images/tutorcomp.jpg);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:white;
+}
+
+.Join-text{
+  color:black;
+  font-size:24px;
+}
+
 .App-link {
   color: #61dafb;
 }
