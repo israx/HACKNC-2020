@@ -146,7 +146,7 @@ export default function Home() {
               Leading Tomorrow
             </h1>
             <h2>
-              We are team of talanted designers making websites with Bootstrap
+              We are a community of tutors and mentors for students in K-12
             </h2>
             <a href="courses.html" className="btn-get-started">
               Get Started
@@ -171,32 +171,24 @@ export default function Home() {
               </div>
               <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
                 <h3>
-                  Voluptatem dignissimos provident quasi corporis voluptates sit
-                  assumenda.
+                  Real Time tutors for Real Time questions
                 </h3>
                 <p className="font-italic">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  In the midst of this global pandemic, it’s vital that we prioritize providing a quality education to the next generation of students around the world. We would like to introduce RealTimeTutors, a program that we’ve created in order to help K-12 students currently learning online due to COVID-19 have readily available and easily accessible assistance, in REAL TIME, for a variety of subjects from college student volunteers.
                 </p>
                 <ul>
                   <li>
-                    <i className="icofont-check-circled"></i> Ullamco laboris
-                    nisi ut aliquip ex ea commodo consequat.
+                    <i className="icofont-check-circled"></i> Authenticated volunteers from the community
                   </li>
                   <li>
-                    <i className="icofont-check-circled"></i> Duis aute irure
-                    dolor in reprehenderit in voluptate velit.
+                    <i className="icofont-check-circled"></i> Real time assistance for quick 5 minute type of questions
                   </li>
                   <li>
-                    <i className="icofont-check-circled"></i> Ullamco laboris
-                    nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                    dolor in reprehenderit in voluptate trideta storacalaperda
-                    mastiro dolore eu fugiat nulla pariatur.
+                    <i className="icofont-check-circled"></i> Tutors can be hired after initial meetup and help
                   </li>
                 </ul>
                 <p>
-                  Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                  aute irure dolor in reprehenderit in voluptate
+                  Come take your learning experience to the next nevel using Real Time Tutors
                 </p>
                 <a href="about.html" className="learn-more-btn">
                   Learn More
@@ -210,13 +202,13 @@ export default function Home() {
           <div className="container">
             <div className="row counters">
               <div className="col-lg-3 col-6 text-center">
-                <span data-toggle="counter-up">1232</span>
+                <span data-toggle="counter-up">324</span>
                 <p>Students</p>
               </div>
 
               <div className="col-lg-3 col-6 text-center">
                 <span data-toggle="counter-up">64</span>
-                <p>Courses</p>
+                <p>topics</p>
               </div>
 
               <div className="col-lg-3 col-6 text-center">
@@ -225,7 +217,7 @@ export default function Home() {
               </div>
 
               <div className="col-lg-3 col-6 text-center">
-                <span data-toggle="counter-up">15</span>
+                <span data-toggle="counter-up">11</span>
                 <p>Trainers</p>
               </div>
             </div>
@@ -237,13 +229,11 @@ export default function Home() {
             <div className="row">
               <div className="col-lg-4 d-flex align-items-stretch">
                 <div className="content">
-                  <h3>Why Choose Mentor?</h3>
+                  <h3>Why Choose Real Time Tutors?</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Duis aute irure dolor in reprehenderit Asperiores
-                    dolores sed et. Tenetur quia eos. Autem tempore quibusdam
-                    vel necessitatibus optio ad corporis.
+                    We offer live on demand help to students. What will differentiate RealTimeTutors from other online tutoring based sites is its affordability. All the tutors involved in the program will be signed up through their local college or university
+
+
                   </p>
                   <div className="text-center">
                     <a href="about.html" className="more-btn">
@@ -262,30 +252,27 @@ export default function Home() {
                     <div className="col-xl-4 d-flex align-items-stretch">
                       <div className="icon-box mt-4 mt-xl-0">
                         <i className="bx bx-receipt"></i>
-                        <h4>Corporis voluptates sit</h4>
+                        <h4>Real Time Essay Editing</h4>
                         <p>
-                          Consequuntur sunt aut quasi enim aliquam quae harum
-                          pariatur laboris nisi ut aliquip
+                          Work with a qualified tutor for your essays and get quality feedback
                         </p>
                       </div>
                     </div>
                     <div className="col-xl-4 d-flex align-items-stretch">
                       <div className="icon-box mt-4 mt-xl-0">
                         <i className="bx bx-cube-alt"></i>
-                        <h4>Ullamco laboris ladore pan</h4>
+                        <h4>Real Time Math Help</h4>
                         <p>
-                          Excepteur sint occaecat cupidatat non proident, sunt
-                          in culpa qui officia deserunt
+                          Have a tutor walk step by step through a math question
                         </p>
                       </div>
                     </div>
                     <div className="col-xl-4 d-flex align-items-stretch">
                       <div className="icon-box mt-4 mt-xl-0">
                         <i className="bx bx-images"></i>
-                        <h4>Labore consequatur</h4>
+                        <h4>Arts and Sciences</h4>
                         <p>
-                          Aut suscipit aut cum nemo deleniti aut omnis.
-                          Doloribus ut maiores omnis facere
+                          Get qualified local artists to provide feedback on your work
                         </p>
                       </div>
                     </div>
