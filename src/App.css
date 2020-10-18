@@ -40,6 +40,12 @@
   font-size:24px;
 }
 
+.Join-message{
+  border: 4px double green;
+  background-color: lightgrey;
+  
+}
+
 .App-link {
   color: #61dafb;
 }

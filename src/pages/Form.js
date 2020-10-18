@@ -59,7 +59,7 @@ function Form() {
         {on ? (
           " "
         ) : (
-          <h3>
+          <h3 className = "Join-message">
             Thanks for being part of change and welcome to our team of tutors.{" "}
           </h3>
         )}
