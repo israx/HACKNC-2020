@@ -15,11 +15,8 @@
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I've always wanted to be a scientist, but I now realize that there are other subjects more than just science that I enjoy!\nMy hobbies include cooking and... eating! I would love to help you out with anything I can!",
     "languages": "English",
-<<<<<<< Updated upstream
-     "id": 2
-=======
     "id": 2
->>>>>>> Stashed changes
+
   },
   {
     "id": 3,
