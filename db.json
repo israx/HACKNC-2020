@@ -1,12 +1,22 @@
 [
   {
-    "id": 1,
     "name": "Ariel Caicedo",
     "availabilty": "Monday and Wednesday",
     "expertice": "Mathematics and Science",
+    "headshot": "../images/avatar.png",
+    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
+    "languages": ["Spanish", "English"],
+    "id": 1
+  },
+  {
+    "name": "Abram Jackson",
+    "availabilty": "Tuesdays and Thursdays",
+    "expertice": "Mathematics, Science, Art",
     "headshot": "./tutors/avatar.png",
     "description": "Hello, I am currently a Senior at HackNC University. I would love to help you out with anything I can ",
     "languages": ["Spanish", "English"]
+     "id": 2
+
   },
   {
     "id": 2,
