@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/HACKNC-2020/static/css/main.9c27f10c.chunk.css",
+    "main.js": "/HACKNC-2020/static/js/main.78754833.chunk.js",
+    "main.js.map": "/HACKNC-2020/static/js/main.78754833.chunk.js.map",
+    "runtime-main.js": "/HACKNC-2020/static/js/runtime-main.0cbdc3cf.js",
+    "runtime-main.js.map": "/HACKNC-2020/static/js/runtime-main.0cbdc3cf.js.map",
+    "static/js/2.7106c819.chunk.js": "/HACKNC-2020/static/js/2.7106c819.chunk.js",
+    "static/js/2.7106c819.chunk.js.map": "/HACKNC-2020/static/js/2.7106c819.chunk.js.map",
+    "index.html": "/HACKNC-2020/index.html",
+    "precache-manifest.34a46da7232fa48ff9551813554a9bba.js": "/HACKNC-2020/precache-manifest.34a46da7232fa48ff9551813554a9bba.js",
+    "service-worker.js": "/HACKNC-2020/service-worker.js",
+    "static/css/main.9c27f10c.chunk.css.map": "/HACKNC-2020/static/css/main.9c27f10c.chunk.css.map",
+    "static/js/2.7106c819.chunk.js.LICENSE.txt": "/HACKNC-2020/static/js/2.7106c819.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/HACKNC-2020/static/media/avatar.d283f806.png",
+    "static/media/boxicons.min.css": "/HACKNC-2020/static/media/boxicons.aeaf4ee6.woff2",
+    "static/media/style.css": "/HACKNC-2020/static/media/hero-bg.116fddc0.jpg",
+    "static/media/icofont.min.css": "/HACKNC-2020/static/media/icofont.f6ab04ae.woff",
+    "static/media/remixicon.css": "/HACKNC-2020/static/media/remixicon.9915fef9.woff2",
+    "static/media/App.css": "/HACKNC-2020/static/media/tutorcomp.d4b42ddd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cbdc3cf.js",
+    "static/js/2.7106c819.chunk.js",
+    "static/css/main.9c27f10c.chunk.css",
+    "static/js/main.78754833.chunk.js"
+  ]
+}
