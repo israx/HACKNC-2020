@@ -20,9 +20,7 @@ export default function TutorInfo() {
           <p>{tutor.description}</p>
           <p>{tutor.expertice}</p>
           <p>{tutor.availability}</p>
-          <p>
-            {tutor.languages[0]} | {tutor.languages[1]}
-          </p>
+          <p>{tutor.languages}</p>
         </div>
       );
     }

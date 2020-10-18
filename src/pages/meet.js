@@ -16,9 +16,7 @@ export default function Meet() {
         <Link to={`meet/${tutor.id}`}>{tutor.name}</Link>
       </h1>
       <p>{tutor.availabilty}</p>
-      <p>
-        {tutor.languages[0]} | {tutor.languages[1]}
-      </p>
+      <p>{tutor.languages}</p>
       <p>{tutor.expertice}</p>
     </div>
   ));
