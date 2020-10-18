@@ -1,6 +1,7 @@
 import React from "react";
 import {Component} from 'react';
 import Form from "./Form";
+import Dialogue from './Dialogue';
 
 class Tutors extends Component {
   render() {

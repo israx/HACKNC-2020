@@ -1,6 +1,5 @@
 import React from "react";
-// import {Alert} from "react-native";
-// import Checkbox from "./CheckBox";
+import Dialogue from "./Dialogue";
 
 class Form extends React.Component {
     constructor(props) {
@@ -9,13 +8,7 @@ class Form extends React.Component {
         name: '', 
         email: '',
         subject: '',
-        // subjects: {
-        //     {id: 1, value: "Mathematics", isChecked: false},
-        //     {id: 2, value: "Science", isChecked: false},
-
-        // }
-        // avail: '',
-        // available: [false, false, false, false, false, false, false],
+        isOpen: false,
     };
     }
 
@@ -49,15 +42,28 @@ class Form extends React.Component {
         })
     }
 
+    toggleModal = (event) => {
+        this.setState( {
+            isOpen: !isOpen
+        })
+    }
+
     onSubmit = e => {
         e.preventDefault();
         console.log(this.state);
+        // change the isOpen
+        // this.setState( {isOpen: !isOpen})
+        // this.toggleModal;
+        this.setState( {isOpen: !isOpen})
+
     }
 
     render() {
         return (
-
             <form>
+                
+                <Dialogue show={this.state.isOpen} onClose={this.toggleModal} >Thank you for your interest! We will get back to you via the email address provided within 24 hours.</Dialogue>
+                
                 <div>
                 <label className="Join-text">Name: </label>
                 <input 
