@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 
+// not in use
 let dialogueStyle = {
     width: '500px',
     maxWidth: '100%',

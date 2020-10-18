@@ -5,17 +5,21 @@
     "availabilty": "Mondays and Wednesdays",
     "expertice": "Mathematics and Science",
     "headshot": "../images/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Spanish", "English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. Coming from a Hispanic background, I've come to enjoy learning new languages and teaching others about them too.\nMy hobbies include biking and playing bowling. I would love to help you out with anything I can!",
+    "languages": "Spanish and English"
   },
   {
     "name": "Abram Jackson",
     "availabilty": "Tuesdays and Thursdays",
     "expertice": "Mathematics, Science, Art",
     "headshot": "../images/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["English"],
+    "description": "Hello, I am currently a Sophomore at HackNC University. I've always wanted to be a scientist, but I now realize that there are other subjects more than just science that I enjoy!\nMy hobbies include cooking and... eating! I would love to help you out with anything I can!",
+    "languages": "English",
+<<<<<<< Updated upstream
      "id": 2
+=======
+    "id": 2
+>>>>>>> Stashed changes
   },
   {
     "id": 3,
@@ -23,8 +27,8 @@
     "availabilty": "Fridays and Saturdays",
     "expertice": "Literature and Science",
     "headshot": "../images/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Chinese", "English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. I'm a literature major and a biology minor, and I love showing others how these two subjects can be combined.\nMy hobbies include reading and playing the piano! I would love to help you out with anything I can.",
+    "languages": "Chinese and English"
   },
   {
     "id": 4,
@@ -32,8 +36,8 @@
     "availabilty": "Mondays and Wednesdays",
     "expertice": "Mathematics and Geography",
     "headshot": "../images/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Russian", "English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. I love learning about other countries and cultures, and would love to learn with you as well!\nI love travelling the world as well as reading a good book. I would love to help you out with anything I can!",
+    "languages": "Russian and English"
   },
   {
     "id": 5,
@@ -41,8 +45,8 @@
     "availabilty": "Mondays, Tuesdays, Wednesdays, and Thursdays",
     "expertice": "English and Science",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Hindi", "English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. I learned English by myself after moving to America at a young age. Learning it was a real struggle, especially with all of the complex grammar that English has. However, it's most definetely masterable!\nMy hobbies include reading and writing my own short stories. I would love to help you out!",
+    "languages": "Hindi and English"
   },
   {
     "id": 6,
@@ -50,8 +54,8 @@
     "availabilty": "Mondays, Tuesdays, Saturdays, and Sundays",
     "expertice": "English, Spanish, and Science",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Spanish", "English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. I love learning in general, and there are several subjects that I'm interested in teaching to others!\nMy hobbies incldue biking and cooking! I would love to help you out with anything I can ",
+    "languages": "Spanish and English"
   },
   {
     "id": 7,
@@ -59,8 +63,8 @@
     "availabilty": "Mondays and Tuesdays",
     "expertice": "Geography and Science",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Freshman at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["English"]
+    "description": "Hello, I am currently a Freshman at HackNC University. This being my first year in the RealTimeTutors program, I hope that my inexpereince can be comensated with the passion that I can bring to the table!\nMy hobbies include running and calisethenics! I would love to help you out with anything I can.",
+    "languages": "English"
   },
   {
     "id": 8,
@@ -68,8 +72,8 @@
     "availabilty": "Saturdays and Sundays",
     "expertice": "Mathematics and Science",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Junior at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["French", "English"]
+    "description": "Hello, I am currently a Junior at HackNC University. I'm currently pursuing a career in Health education, and I think that tutoring others would be an amazing way to build experience in training others!\nMy hobbies include taking naps and finding good restaurants to eat at! I would love to help you out with anything I can.",
+    "languages": "French and English"
   },
   {
     "id": 9,
@@ -77,8 +81,8 @@
     "availabilty": "Fridays, Saturdays, and Sundays",
     "expertice": "English, Art and Geography",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. I love travelling and have participated in several study abroad programs! I think teaching others about culture and art is extremely important, and I would love to help you out with anything I can!",
+    "languages": "English"
   },
   {
     "id": 10,
@@ -86,8 +90,8 @@
     "availabilty": "Thursdays, Fridays, and Mondays ",
     "expertice": "Mathematics, Science, and Geography",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Senior at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Spanish", "English"]
+    "description": "Hello, I am currently a Senior at HackNC University. As someone about to get their bachelors degree in computer science, I think that my experience in the mathematics and science field could help a lot when it comes to tutoring and helping others!\nMy hobbies include playing golf and bowling! I would love to help you out with anything I can.",
+    "languages": "Spanish and English"
   },
   {
     "id": 11,
@@ -95,7 +99,7 @@
     "availabilty": "Tuesdays and Thursdays",
     "expertice": "Art and Science",
     "headshot": "./tutors/avatar.png",
-    "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Chinese", "English"]
+    "description": "Hello, I am currently a Sophomore at HackNC University. I am currently majoring in chemistry and minoring in art, and I'm very passionate about these two subjects!\nMy hobbies include reading and playing video games (add me on Nintendo)! I would love to help you out with anything I can.",
+    "languages": "Chinese and English"
   }
 ]

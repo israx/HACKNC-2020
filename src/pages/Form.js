@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import React, { useState } from "react";
 import { unstable_renderSubtreeIntoContainer } from "react-dom";
 // import {Alert} from "react-native";
@@ -52,6 +53,23 @@ function Form() {
     setSubject("");
     setAvail("");
   };
+=======
+import React, { useContext } from "react";
+import { Context } from "../Context";
+
+function Form() {
+  const {
+    handleChange,
+    onSubmit,
+    name,
+    email,
+    expertice,
+    availabilty,
+    on,
+    languages,
+    description,
+  } = useContext(Context);
+>>>>>>> Stashed changes
 
   return (
     <form>
@@ -59,8 +77,13 @@ function Form() {
         {on ? (
           " "
         ) : (
-          <h3>
+<<<<<<< Updated upstream
+          <h3 className = "Join-message">
             Thanks for being part of change and welcome to our team of tutors.{" "}
+=======
+          <h3>
+            Thanks for being part of change and welcome to our team of tutors.
+>>>>>>> Stashed changes
           </h3>
         )}
         <label className="Join-text">Name: </label>
@@ -88,7 +111,7 @@ function Form() {
 
       <div>
         <label className="Join-text">Subject: </label>
-        <select value={subject} onChange={handleChange} name="subject">
+        <select value={expertice} onChange={handleChange} name="expertice">
           <option value="">Select</option>
           <option value="Mathematics">Mathematics</option>
           <option value="Science">Science</option>
@@ -101,7 +124,7 @@ function Form() {
 
       <div>
         <label className="Join-text">Availability: </label>
-        <select value={avail} onChange={handleChange} name="avail">
+        <select value={availabilty} onChange={handleChange} name="availabilty">
           <option value="">Select</option>
           <option value="Mondays">Monday</option>
           <option value="Tuesdays">Tuesday</option>
@@ -114,10 +137,25 @@ function Form() {
         <br></br>
       </div>
 
-      {/* <div>
-                    <option value = 
-                    <input type="checkbox" checked={this.state.available} onChange={this.handleAvailabilityChange}/>
-                </div> */}
+      <div>
+        <label className="Join-text">Language: </label>
+        <select value={languages} onChange={handleChange} name="languages">
+          <option value="">Select</option>
+          <option value="English">English</option>
+          <option value="Spanish">Spanish</option>
+          <option value="Chinese">Chinese</option>
+          <option value="Indi">Indi</option>
+          <option value="French">French</option>
+          <option value="Russian">Russian</option>
+        </select>
+        <br></br>
+      </div>
+      <textarea
+        name="description"
+        value={description}
+        placeholder="Why do you want to be a tutor?"
+        onChange={handleChange}
+      ></textarea>
 
       <br></br>
       <button onClick={onSubmit}>Submit</button>
