@@ -19,8 +19,4 @@ class Tutors extends Component {
 
 export default Tutors;
 
-
-
-
-
-
+// ddd
