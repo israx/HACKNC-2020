@@ -3,17 +3,20 @@
 }
 header {
   width: 100%;
-  padding: 0 1rem;
+  padding: 10 0rem;
   position: fixed;
   z-index: 99999;
   background: #ffffff;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  font-size: 300%;
   border-bottom: 1.5px solid var(--text);
 }
 .logo {
   margin-right: 1rem;
+  font-size: 100%;
+
 }
 
 .nav {
@@ -40,5 +43,5 @@ body {
 }
 
 header + div {
-  padding-top: 5rem;
+  padding-top: 1rem;
 }
