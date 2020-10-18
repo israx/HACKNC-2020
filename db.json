@@ -6,7 +6,7 @@
     "expertice": "Mathematics and Science",
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Spanish", "English"],
+    "languages": ["Spanish", "English"]
   },
   {
     "name": "Abram Jackson",
@@ -24,8 +24,7 @@
     "expertice": "Literature and Science",
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Chinese", "English"],
-
+    "languages": ["Chinese", "English"]
   },
   {
     "id": 4,
@@ -34,7 +33,7 @@
     "expertice": "Mathematics and Geography",
     "headshot": "../images/avatar.png",
     "description": "Hello, I am currently a Sophomore at HackNC University. I would love to help you out with anything I can ",
-    "languages": ["Russian", "English"],
+    "languages": ["Russian", "English"]
   },
   {
     "id": 5,
