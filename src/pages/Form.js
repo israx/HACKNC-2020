@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { unstable_renderSubtreeIntoContainer } from "react-dom";
 // import {Alert} from "react-native";
 // import Checkbox from "./CheckBox";
 
@@ -21,22 +22,22 @@ function Form() {
     if (name === "name") {
       setName(value);
       setTutorOb((prev) => ({ ...prev, [name]: value }));
-      setOn(true);
+      setOn(on == true);
     }
     if (name === "email") {
       setEmail(value);
       setTutorOb((prev) => ({ ...prev, [name]: value }));
-      setOn(true);
+      setOn(on == true);
     }
     if (name === "subject") {
       setSubject(value);
       setTutorOb((prev) => ({ ...prev, [name]: value }));
-      setOn(true);
+      setOn(on == true);
     }
     if (name === "avail") {
       setAvail(value);
       setTutorOb((prev) => ({ ...prev, [name]: value }));
-      setOn(true);
+      setOn(on == true);
     }
     console.log(tutorOb);
   };
@@ -45,8 +46,11 @@ function Form() {
     e.preventDefault();
     setNewTutors((prev) => [...prev, tutorOb]);
     setOn((prev) => !prev);
-
     console.log(newTutors);
+    setName("");
+    setEmail("");
+    setSubject("");
+    setAvail("");
   };
 
   return (
