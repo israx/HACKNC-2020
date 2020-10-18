@@ -5,7 +5,7 @@ export default function About() {
   const { about } = useContext(Context);
   console.log(about);
   const aboutMap = about.map((person) => (
-    <div Class="user-card">
+    <div className="user-card">
       <img
         src={person.profilePicture}
         alt="profile-picture"

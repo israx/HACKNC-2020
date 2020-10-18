@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/header";
 import { Switch, Route } from "react-router-dom";
@@ -9,6 +8,7 @@ import Home from "./pages/home";
 import Tutors from "./pages/tutors";
 import Student from "./pages/student";
 import Meet from "./pages/meet";
+import TutorInfo from "./pages/tutorInfo";
 
 function App() {
   return (
@@ -21,8 +21,11 @@ function App() {
         <Route path="/about">
           <About />
         </Route>
-        <Route path="/meet">
+        <Route exact path="/meet">
           <Meet />
+        </Route>
+        <Route path="/meet/:id">
+          <TutorInfo />
         </Route>
         <Route path="/tutors">
           <Tutors />
